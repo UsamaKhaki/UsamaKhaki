@@ -31,14 +31,6 @@ Results-driven Senior Software Engineer with 7+ years of experience building sca
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UsamaKhaki&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📊 Quick Stats
 
 <div align="center">
@@ -79,23 +71,6 @@ Results-driven Senior Software Engineer with 7+ years of experience building sca
 ### Architecture
 ![Microservices](https://img.shields.io/badge/Microservices-0891b2?style=for-the-badge&logoColor=white) ![Monolith](https://img.shields.io/badge/Monolith-0891b2?style=for-the-badge&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event-Driven-0891b2?style=for-the-badge&logoColor=white) ![SOLID](https://img.shields.io/badge/SOLID-0891b2?style=for-the-badge&logoColor=white) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-0891b2?style=for-the-badge&logoColor=white) ![Clean Code](https://img.shields.io/badge/Clean%20Code-0891b2?style=for-the-badge&logoColor=white)
 
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UsamaKhaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaKhaki&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaKhaki&theme=algolia&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UsamaKhaki&theme=react-dark&hide_border=true&bg_color=0d1117&color=06b6d4&line=0891b2&point=ffffff" alt="Activity Graph"/>
 </div>
 
 ---
@@ -150,11 +125,6 @@ React • Redux • Material UI • Ant Design • REST APIs • Node.js • Pub
 ```
 
 </details>
-
-
-<div align="center">
-  <i>...and more experience in building scalable solutions!</i>
-</div>
 
 ---
 
