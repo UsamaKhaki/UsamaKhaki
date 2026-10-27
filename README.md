@@ -1,54 +1,118 @@
-# Hi, I'm Usama
+<div align="center">
 
-Senior Software Engineer in Dubai with 10+ years building web, mobile and backend systems. I work mostly in React, Next.js and TypeScript, with Node.js, NestJS and Laravel behind them, and lately I build AI tools that answer questions from real data.
+<a href="https://usamakhaki.com"><img src="./assets/command-center.svg" width="100%" alt="Usama Khaki, Senior Software Engineer in Dubai. 10+ years, 1M+ app downloads as team lead, 6 live project demos, 5 products in production."></a>
 
-**[usamakhaki.com](https://usamakhaki.com)** · [LinkedIn](https://www.linkedin.com/in/usamakhaki) · [khakiu.uk@gmail.com](mailto:khakiu.uk@gmail.com)
+<a href="https://usamakhaki.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Frontend+architecture+for+data-heavy+SaaS;Micro-frontends%2C+virtualised+tables%2C+live+maps;AI+features+that+are+validated+and+tested;Open+to+senior+and+lead+roles+from+Dec+2026" alt="Frontend architecture for data-heavy SaaS. Micro-frontends, virtualised tables, live maps. AI features that are validated and tested. Open to senior and lead roles from Dec 2026."></a>
 
-Open to senior and lead roles from December 2026, in Dubai or remote.
+<a href="https://usamakhaki.com"><img src="https://img.shields.io/badge/usamakhaki.com-0b2530?style=flat-square&logo=googlechrome&logoColor=5eead4" height="28" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/usamakhaki"><img src="https://img.shields.io/badge/LinkedIn-0b2530?style=flat-square&logo=linkedin&logoColor=5eead4" height="28" alt="LinkedIn"></a>
+<a href="mailto:khakiu.uk@gmail.com"><img src="https://img.shields.io/badge/Email-0b2530?style=flat-square&logo=gmail&logoColor=5eead4" height="28" alt="Email"></a>
+<img src="https://img.shields.io/badge/Open_to_senior_roles-0b2530?style=flat-square&logo=checkmarx&logoColor=34d399" height="28" alt="Open to senior roles">
 
-## Projects
+</div>
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **Chat with DB** | Ask a Postgres database a question in plain English and get the answer, the SQL, the rows and a chart. Queries are parsed, allow-listed and run read-only. | [Code](https://github.com/UsamaKhaki/chat-with-db) |
-| **Fleet Ops Dashboard** | Operations console for 5,000 heavy-equipment assets, work orders and a live vehicle map, built as React micro-frontends with single-spa. | [Live demo](https://fleet-ops-mu.vercel.app) · [Code](https://github.com/UsamaKhaki/fleet-ops-dashboard) |
-| **Tools Hubs** | Salary, tax and cost-of-living calculators for the UAE, US, Saudi Arabia and Germany, in two languages each, from one Next.js monorepo. | [uaetoolshub.com](https://uaetoolshub.com) |
-| **Cited** | Finds the buyer questions AI assistants answer without naming a business, drafts answer pages and blocks thin ones with a quality gate. | [Live demo](https://cited-gold.vercel.app) · [Code](https://github.com/UsamaKhaki/cited) |
-| **Ledger** | Debt payoff planner that simulates every month with avalanche or snowball and shows the debt-free date. | [Live demo](https://ledger-eta-teal.vercel.app) · [Code](https://github.com/UsamaKhaki/ledger-core) |
-| **Flyt** | Flight metasearch on the redirect model, with a swappable provider between the UI and the fare source. | [Live demo](https://flyt-beryl.vercel.app) · [Code](https://github.com/UsamaKhaki/flyt) |
-| **Postpilot** | LinkedIn posts drafted in your voice and scheduled, published only after you approve them over WhatsApp. | [Live demo](https://postpilot-ten-liard.vercel.app) · [Code](https://github.com/UsamaKhaki/postpilot) |
-| **Waypoint** | Keyboard-driven Chrome new tab for developers: pull requests, CI status, bookmarks and snippets behind Cmd+K. | [Website](https://usamakhaki.github.io/waypoint-chrome-ext/) · [Code](https://github.com/UsamaKhaki/waypoint-chrome-ext) |
-| **Divido** | Splits group bills by line item and settles them in as few payments as possible. React Native app with a Laravel API. | [Code](https://github.com/UsamaKhaki/divido) |
-| **Trace** | URL shortener whose links can be repointed, expired or deleted after they are shared. | [Code](https://github.com/UsamaKhaki/tiny-url) |
-| **ApertureShelf** | macOS app that turns the MacBook notch into a shelf: media controls, clipboard history, a file tray and a focus timer. | [Code](https://github.com/UsamaKhaki/ApertureShelf) |
+## About
 
-I also build and run [W-Meet](https://www.wmeet.cc), [CompressImages](https://www.compressimages.cc), [downloadvideo.cc](https://downloadvideo.cc) (10K+ monthly visitors) and [Temp Mail](https://www.temporaryemail.cc). Their code is private.
+I design frontends for data-heavy SaaS and build the services behind them. Since May 2016 I've worked across React, Next.js, TypeScript, Node.js and Laravel. Most recently I've been leading frontend architecture and a team of three at **TENDERD**, an equipment and fleet management platform.
 
-## Experience
+What I care about: interfaces that stay fast with thousands of rows, state that survives a flaky network, and AI features that are checked before they reach a user.
 
-**Senior Software Engineer, TENDERD** · Dubai · Jun 2023 – Present
-Lead frontend architecture for an AI-powered equipment and fleet management SaaS and a team of 3 frontend engineers. Worked on the move to single-spa micro-frontends.
+## Live work
 
-**Full Stack Developer, Team Lead, TNC IT Solutions Group** · Dubai · Oct 2021 – Jun 2023
-Led the team behind Real Research, a survey app with 1M+ downloads. Built Node.js and NestJS services for 100K+ daily active users, and worked on site in Seoul on an AI research and development initiative.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://fleet-ops-mu.vercel.app"><img src="./assets/cards/fleet-ops.jpg" width="100%" alt="Fleet Ops Dashboard"></a>
+<h3>Fleet Ops Dashboard</h3>
+Micro-frontends, 5,000-row virtualised tables, optimistic updates and a live WebSocket map.<br><br>
+<a href="https://fleet-ops-mu.vercel.app"><img src="https://img.shields.io/badge/Live_demo-34d399?style=flat-square&logo=vercel&logoColor=061018" alt="Live demo"></a>
+<a href="https://github.com/UsamaKhaki/fleet-ops-dashboard"><img src="https://img.shields.io/badge/Code-0b2530?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/UsamaKhaki/chat-with-db"><img src="./assets/cards/chat-with-db.jpg" width="100%" alt="Chat with DB"></a>
+<h3>Chat with DB</h3>
+Plain-English questions over Postgres, answered with SQL that is parsed, allow-listed and run read-only.<br><br>
+<a href="https://github.com/UsamaKhaki/chat-with-db"><img src="https://img.shields.io/badge/Code-0b2530?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://cited-gold.vercel.app"><img src="./assets/cards/cited.jpg" width="100%" alt="Cited"></a>
+<h3>Cited</h3>
+AI-drafted pages that must pass a 20+ rule quality gate, on Supabase with row-level security.<br><br>
+<a href="https://cited-gold.vercel.app"><img src="https://img.shields.io/badge/Live_demo-34d399?style=flat-square&logo=vercel&logoColor=061018" alt="Live demo"></a>
+<a href="https://github.com/UsamaKhaki/cited"><img src="https://img.shields.io/badge/Code-0b2530?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://uaetoolshub.com"><img src="./assets/cards/tools-hubs.jpg" width="100%" alt="Tools Hubs"></a>
+<h3>Tools Hubs</h3>
+Salary and tax calculators for four countries in two languages, with the rules pinned by tests.<br><br>
+<a href="https://uaetoolshub.com"><img src="https://img.shields.io/badge/Live_site-34d399?style=flat-square&logo=googlechrome&logoColor=061018" alt="Live site"></a>
+</td>
+</tr>
+</table>
 
-**Full Stack Developer, HousekeepingCo. Tadbeer** · Dubai · Aug 2018 – Oct 2021
-Led frontend development of an enterprise hiring platform and built 30+ modules for CRM, call center, HRM, ERP and ticketing.
+<details>
+<summary><b>More live demos</b> &nbsp;·&nbsp; Ledger, Flyt, Postpilot, Waypoint</summary>
+<br>
 
-**Web Developer, LAMPDO** · Faisalabad · May 2016 – Jul 2018
-Full-stack web applications in Laravel, CodeIgniter and WordPress.
+| Project | What it shows | Links |
+| :-- | :-- | :-- |
+| **Ledger** | Month-by-month debt payoff simulation with avalanche and snowball strategies | [Live](https://ledger-eta-teal.vercel.app) · [Code](https://github.com/UsamaKhaki/ledger-core) |
+| **Flyt** | Flight metasearch behind a swappable provider interface, in a Turborepo monorepo | [Live](https://flyt-beryl.vercel.app) · [Code](https://github.com/UsamaKhaki/flyt) |
+| **Postpilot** | LinkedIn posts drafted in your voice and scheduled, published only after you approve them over WhatsApp | [Live](https://postpilot-ten-liard.vercel.app) · [Code](https://github.com/UsamaKhaki/postpilot) |
+| **Waypoint** | Keyboard-driven Chrome new tab for developers: PRs, bookmarks and snippets behind Cmd+K | [Website](https://usamakhaki.github.io/waypoint-chrome-ext/) · [Code](https://github.com/UsamaKhaki/waypoint-chrome-ext) |
 
-## Stack
+</details>
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Material UI
-- **State and data:** TanStack Query, TanStack Table, Redux Toolkit, Zustand, React Hook Form
-- **Backend:** Node.js, NestJS, Laravel, PHP, REST, GraphQL, WebSockets
-- **Data:** PostgreSQL, pgvector, MongoDB, MySQL, Redis
-- **AI:** OpenAI and Claude APIs, LangChain, RAG, tool use
-- **Mobile:** React Native, Expo
-- **Delivery:** Docker, AWS, GitHub Actions, Vercel, Turborepo
+### In production
 
-## Certifications
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://downloadvideo.cc"><img src="https://usamakhaki.com/projects/downloadvideo.jpg" alt="downloadvideo.cc"></a><br><b>downloadvideo.cc</b><br><sub>10K+ monthly visitors</sub></td>
+<td align="center" width="25%"><a href="https://www.compressimages.cc"><img src="https://usamakhaki.com/projects/compressimages.jpg" alt="CompressImages"></a><br><b>CompressImages</b><br><sub>45 PDF and image tools</sub></td>
+<td align="center" width="25%"><a href="https://www.wmeet.cc"><img src="https://usamakhaki.com/projects/wmeet.jpg" alt="W-Meet"></a><br><b>W-Meet</b><br><sub>Video meetings in the browser</sub></td>
+<td align="center" width="25%"><a href="https://www.temporaryemail.cc"><img src="https://usamakhaki.com/projects/temporaryemail.jpg" alt="Temp Mail"></a><br><b>Temp Mail</b><br><sub>Disposable inboxes</sub></td>
+</tr>
+</table>
 
-- [Front-End Web Development with React](https://coursera.org/share/78c62e4f86766bb1b460cab94b82b21e), The Hong Kong University of Science and Technology (Coursera), 2023
-- [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/certificate/UC-2ceeab29-6096-4294-8768-f48d2899bd4f/), Udemy, 2023
+## Route so far
+
+```text
+2023 ─ now    Senior Software Engineer · TENDERD
+              Frontend architecture for fleet and equipment SaaS
+              Team of 3 · single-spa micro-frontend migration
+
+2021 ─ 2023   Full Stack Developer, Team Lead · TNC IT Solutions Group
+              Real Research app, 1M+ downloads
+              NestJS services for 100K+ daily users
+
+2018 ─ 2021   Full Stack Developer · HousekeepingCo. Tadbeer
+              Enterprise hiring platform · 30+ CRM, HRM and ERP modules
+
+2016 ─ 2018   Web Developer · LAMPDO
+              Full-stack Laravel and PHP applications
+```
+
+## Toolbox
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux"><br>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,php,postgres,mysql,redis&theme=dark" alt="Node.js, NestJS, Laravel, PHP, PostgreSQL, MySQL, Redis"><br>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,supabase,git&theme=dark" alt="Docker, AWS, GitHub Actions, Vercel, Supabase, Git">
+</p>
+
+<p align="center"><sub><b>AI</b> &nbsp;OpenAI and Claude APIs · LangChain · pgvector · evals &nbsp;&nbsp;|&nbsp;&nbsp; <b>Data UI</b> &nbsp;TanStack Query and Table · WebSockets · Zustand</sub></p>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UsamaKhaki/UsamaKhaki/output/fleet-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UsamaKhaki/UsamaKhaki/output/fleet-snake.svg">
+  <img src="https://raw.githubusercontent.com/UsamaKhaki/UsamaKhaki/output/fleet-snake-dark.svg" width="100%" alt="Contribution graph being travelled by an animated route">
+</picture>
+
+<div align="center">
+<br>
+<a href="mailto:khakiu.uk@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Next stop: your team"></a>
+</div>

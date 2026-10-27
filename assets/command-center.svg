@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-label="Usama Khaki, Senior Software Engineer, over an animated fleet map">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#061018"/>
+      <stop offset="1" stop-color="#0a1a24"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset="0.55" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#14303b" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="0.5" cy="0.45" r="0.65">
+      <stop offset="0.55" stop-color="#061018" stop-opacity="0"/>
+      <stop offset="1" stop-color="#061018" stop-opacity="0.95"/>
+    </radialGradient>
+    <path id="r1" d="M60 330 C 220 250, 300 360, 470 300 S 760 200, 950 260"/>
+    <path id="r2" d="M80 90 C 260 160, 420 60, 560 130 S 820 210, 940 110"/>
+    <path id="r3" d="M120 380 C 260 330, 380 390, 520 350 S 760 330, 900 380"/>
+  </defs>
+
+  <rect width="1000" height="420" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="420" rx="18" fill="url(#grid)" opacity="0.9"/>
+
+  <!-- routes -->
+  <g fill="none" stroke-width="1.5" stroke-dasharray="4 8">
+    <use href="#r1" stroke="#0e7490" opacity="0.7"/>
+    <use href="#r2" stroke="#0e7490" opacity="0.5"/>
+    <use href="#r3" stroke="#0e7490" opacity="0.5"/>
+  </g>
+
+  <!-- sites -->
+  <g fill="#5eead4">
+    <circle cx="150" cy="120" r="5"/><circle cx="950" cy="260" r="5"/><circle cx="820" cy="220" r="5"/><circle cx="120" cy="380" r="5"/>
+  </g>
+  <g fill="none" stroke="#5eead4">
+    <circle cx="950" cy="260" r="6"><animate attributeName="r" values="6;30" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="220" r="6"><animate attributeName="r" values="6;30" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="120" r="6"><animate attributeName="r" values="6;30" dur="2.4s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- vehicles -->
+  <g>
+    <circle r="5" fill="#fbbf24"><animateMotion dur="9s" repeatCount="indefinite"><mpath href="#r1"/></animateMotion></circle>
+    <circle r="5" fill="#34d399"><animateMotion dur="12s" repeatCount="indefinite" begin="-4s"><mpath href="#r2"/></animateMotion></circle>
+    <circle r="5" fill="#34d399"><animateMotion dur="10s" repeatCount="indefinite" begin="-2s"><mpath href="#r3"/></animateMotion></circle>
+    <circle r="5" fill="#f87171"><animateMotion dur="14s" repeatCount="indefinite" begin="-9s" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#r1"/></animateMotion></circle>
+    <circle r="5" fill="#34d399"><animateMotion dur="11s" repeatCount="indefinite" begin="-6s" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#r2"/></animateMotion></circle>
+  </g>
+
+  <rect width="1000" height="420" rx="18" fill="url(#fade)"/>
+
+  <!-- content -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="500" y="72" text-anchor="middle" font-size="14" letter-spacing="4" fill="#5eead4">● LIVE · DUBAI, UAE</text>
+    <text x="500" y="160" text-anchor="middle" font-size="76" font-weight="800" letter-spacing="-2" fill="url(#name)">Usama Khaki</text>
+    <text x="500" y="204" text-anchor="middle" font-size="24" fill="#cbd5e1">Senior Software Engineer · Frontend architecture · AI on real data</text>
+  </g>
+
+  <!-- stat chips -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(155 260)">
+      <rect x="-80" y="0" width="160" height="66" rx="12" fill="#0b2530" stroke="#155e75"/>
+      <text y="30" font-size="24" font-weight="800" fill="#ecfeff">10+ yrs</text>
+      <text y="51" font-size="12" fill="#94a3b8">since May 2016</text>
+    </g>
+    <g transform="translate(385 260)">
+      <rect x="-80" y="0" width="160" height="66" rx="12" fill="#0b2530" stroke="#155e75"/>
+      <text y="30" font-size="24" font-weight="800" fill="#ecfeff">1M+</text>
+      <text y="51" font-size="12" fill="#94a3b8">app downloads</text>
+    </g>
+    <g transform="translate(615 260)">
+      <rect x="-80" y="0" width="160" height="66" rx="12" fill="#0b2530" stroke="#155e75"/>
+      <text y="30" font-size="24" font-weight="800" fill="#ecfeff">6</text>
+      <text y="51" font-size="12" fill="#94a3b8">live project demos</text>
+    </g>
+    <g transform="translate(845 260)">
+      <rect x="-80" y="0" width="160" height="66" rx="12" fill="#0b2530" stroke="#155e75"/>
+      <text y="30" font-size="24" font-weight="800" fill="#ecfeff">5</text>
+      <text y="51" font-size="12" fill="#94a3b8">products in production</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="419" rx="18" fill="none" stroke="#14303b"/>
+</svg>
